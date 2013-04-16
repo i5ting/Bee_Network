@@ -1,0 +1,6 @@
+[submodule "vendor/Bee_Vendor"]
+	path = vendor/Bee_Vendor
+	url = https://github.com/i5ting/Bee_Vendor.git
+[submodule "vendor/Bee_Foundation"]
+	path = vendor/Bee_Foundation
+	url = https://github.com/i5ting/Bee_Foundation.git
